@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @akarshch87
-- 👀 I’m interested in data science and how it can be used to advent the decision making process in complex scenarios.
-- 🌱 I’m currently learning python and database managemenet (specifically SQL) along with the language's ties to the world wide web!
-- 📫 How to reach me - my email!
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am very interested in the consulting/finance space and am super interested to find out how data science can align with these such fields!
+
